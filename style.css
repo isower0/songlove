@@ -1,0 +1,37 @@
+.i-phone-13-14-1,
+.i-phone-13-14-1 * {
+  box-sizing: border-box;
+}
+.i-phone-13-14-1 {
+  background: #ff667f;
+  height: 844px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffcece;
+  width: 287px;
+  height: 215px;
+  position: absolute;
+  left: 52px;
+  top: 315px;
+}
+.ellipse-1 {
+  background: #c54b4b;
+  border-radius: 50%;
+  width: 49px;
+  height: 46px;
+  position: absolute;
+  left: 171px;
+  top: 399px;
+}
+.pull {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 180px;
+  top: 414px;
+}
